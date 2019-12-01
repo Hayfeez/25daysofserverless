@@ -18,7 +18,7 @@ namespace ServerlessDreidel
 
             // נ (Nun), ג (Gimmel), ה (Hay), or ש (Shin)
             string[] options = { "נ", "ג", "ה", "ש" }; //new string[4];
-            var rnd = new Random().Next(4);           
+            var rnd = new Random().Next(4);
 
             return req.CreateResponse(HttpStatusCode.OK, options[rnd]);
         }

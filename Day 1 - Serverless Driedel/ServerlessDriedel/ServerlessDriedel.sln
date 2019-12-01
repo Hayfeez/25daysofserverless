@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29409.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerlessDreidel", "ServerlessDreidel\ServerlessDreidel.csproj", "{18732C52-5637-4387-B34B-E8AAECCD665D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerlessDriedel", "ServerlessDriedel.csproj", "{CD5D9E29-671F-4A21-97E5-667BDA5EF675}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{18732C52-5637-4387-B34B-E8AAECCD665D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{18732C52-5637-4387-B34B-E8AAECCD665D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{18732C52-5637-4387-B34B-E8AAECCD665D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{18732C52-5637-4387-B34B-E8AAECCD665D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD5D9E29-671F-4A21-97E5-667BDA5EF675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5D9E29-671F-4A21-97E5-667BDA5EF675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5D9E29-671F-4A21-97E5-667BDA5EF675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5D9E29-671F-4A21-97E5-667BDA5EF675}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CC77DD09-337B-47AA-90E6-C750A1D0D2D8}
+		SolutionGuid = {544D6BF0-2B59-4B57-B3BD-9A30BF641D90}
 	EndGlobalSection
 EndGlobal
